@@ -1,6 +1,7 @@
 {
   "name": "food-delivery-react-redux-app",
   "version": "0.1.0",
+  "homepage": "https://akshathpothula26.github.io/feedmefood",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.5",
@@ -43,5 +44,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
